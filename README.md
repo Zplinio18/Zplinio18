@@ -8,4 +8,4 @@
 </div>
 
 ![Snake animation](https://github.com/Zplinio18/Zplinio18/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Zplinio18&theme=react)](https://github.com/Zplinio18/Zplinio18)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Zplinio18&repo=Zplinio18&theme=react)](https://github.com/Zplinio18/Zplinio18)
