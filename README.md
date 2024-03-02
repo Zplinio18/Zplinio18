@@ -8,8 +8,8 @@
 
 <!--descrição-->
 <div align= "center">
-   <p><strong>📚 Faço ciência da computação na UFJF!</strong></p>
-   <p><strong>♨ Atualmente familiarizado com o backend!</strong></p>
+   <p>📚 Faço <b>Ciência da Computação</b> na UFJF!</p>
+   <p>♨ Atualmente familiarizado com o <b>Backend</b>!</p>
 </div>
 
 
