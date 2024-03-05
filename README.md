@@ -9,7 +9,7 @@
 <!--descrição-->
 <div align= "center">
    <p>📚 Faço <b>Ciência da Computação</b> na UFJF!</p>
-   <p>♨ Atualmente familiarizado com o <b>Backend</b>!</p>
+   <p>💻 Atualmente me aprofundando no <b>Frontend</b>!</p>
 </div>
 
 
