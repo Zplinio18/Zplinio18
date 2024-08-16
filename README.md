@@ -9,7 +9,7 @@
 <!--descrição-->
 <div align= "center">
    <p>📚 Faço <b>Ciência da Computação</b> na UFJF!</p>
-   <p>💻 Atualmente me aprofundando no <b>Frontend</b>!</p>
+   <p>💻 Sou um desenvolvedor <b>Fullstack</b>!</p>
 </div>
 
 
@@ -50,19 +50,53 @@
 <div align= "center">
   <img width=60% src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
 </div>
-<br>
 
 
+<div style="display:inline_block" align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=29A083&background=29A08300&center=true&vCenter=true&repeat=false&width=435&lines=My+Skills%F0%9F%93%88" alt="Typing SVG" /></a>
+</div>
 
+<div style="display:inline_block" align = "center">
 <!--Linguagens-->
 <div style="display:inline_block" align="center">
+  <h3>Languages</h3>
+<div/>
+<div style="display:inline_block" align="center">  
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
+    
+<!--Tools-->
+<div style="display:inline_block" align="center">
+  <h3>Tools</h3>
+<div/>
+<div style="display:inline_block" align="center">
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
+
+<div style="display:inline_block" align="center">
+  <h3>Libs & Frames</h3>
+<div/>
+<div style="display:inline_block" align="center">
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</div>
+</div>
+  
+<!--linha-->
+<div align= "center">
+  <img width=33% src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
+</div>
+
 
