@@ -10,14 +10,14 @@
 <div align= "center">
    <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
    <p>💻 I am a <b>Fullstack</b> developer!</p>
-  <p>⏰ Currently learning NodeJS and technologies.</p>
+  <p>⏰ Currently learning <b>NodeJS</b> and technologies.</p>
 </div>
 
 
 
 <!--linha-->
 <div align= "center">
-  <img width=33% src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
+  <img width=420em src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
 </div>
 
 <!-- Title GitHub Stats -->
@@ -34,7 +34,7 @@
 
 <!--linha-->
 <div align= "center">
-  <img width=60% src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
+  <img width=640em src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
 </div>
 <br>
 
@@ -45,7 +45,7 @@
 
 <!--linha-->
 <div align= "center">
-  <img width=60% src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
+  <img width=640em src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
 </div>
 
 <!--Title my Skills-->
@@ -58,14 +58,13 @@
     <h3>Languages</h3>
   <div/>
   <div style="display:inline_block" align="center">  
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   </div>
       
   <!--Tools-->
@@ -73,11 +72,12 @@
     <h3>Tools</h3>
   </div>
   <div style="display:inline_block" align="center">
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   </div>
   
   <!--Libs N Frames-->
@@ -85,13 +85,13 @@
     <h3>Libs & Frames</h3>
   </div>
   <div style="display:inline_block" align="center">
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   </div>
 
 <!--linha-->
 <div align= "center">
-  <img width=33% src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
+  <img width=420em src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
 </div>
 
