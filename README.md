@@ -14,7 +14,6 @@
 </div>
 
 
-
 <!--linha-->
 <div align= "center">
   <img width=420em src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
@@ -36,12 +35,13 @@
 <div align= "center">
   <img width=640em src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=29A083"/>
 </div>
-<br>
 
 <!--GIF-->
 <div align= "center">
   <img width=50% src= "https://github.com/Zplinio18/Zplinio18/assets/113717240/d8f7ac01-5ff0-436c-9e9b-58ec636f5d87"/>
 </div>
+
+
 
 <!--linha-->
 <div align= "center">
@@ -95,3 +95,7 @@
   <img width=420em src= "https://capsule-render.vercel.app/api?type=soft&height=3&color=29A083"/>
 </div>
 
+<div align = "center">
+  <a href="https://www.linkedin.com/in/pedrolbotelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href = "mailto:pedrolucasbfreitas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
