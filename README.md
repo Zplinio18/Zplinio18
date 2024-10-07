@@ -10,7 +10,7 @@
 <div align= "center">
    <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
    <p>💻 I am a <b>Fullstack</b> developer!</p>
-  <p>⏰ Currently learning <b>NodeJS</b> and technologies.</p>
+  <p>⏰ Currently learning <b>NodeJS</b> and <b>SQL</b></p>
 </div>
 
 
@@ -65,6 +65,7 @@
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-plain.svg" />
   </div>
       
   <!--Tools-->
@@ -72,7 +73,7 @@
     <h3>Tools</h3>
   </div>
   <div style="display:inline_block" align="center">
-    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
