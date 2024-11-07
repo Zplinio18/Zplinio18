@@ -10,7 +10,7 @@
 <div align= "center">
    <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
    <p>💻 I am a <b>Fullstack</b> developer!</p>
-  <p>⏰ Currently learning <b>NodeJS</b> and <b>SQL</b></p>
+  <p>⏰ Currently learning <b>Computer Vision</b></p>
 </div>
 
 
