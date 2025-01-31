@@ -9,7 +9,7 @@
 <!--descrição-->
 <div align= "center">
   <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
-  <p>💼 Fullstack Development Intern at <b>Falaê</b> company</p>
+  <p>💼 Fullstack Development Intern at <b>Falaê</b></p>
 </div>
 
 
