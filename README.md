@@ -8,9 +8,8 @@
 
 <!--descrição-->
 <div align= "center">
-   <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
-   <p>💻 I am a <b>Fullstack</b> developer!</p>
-  <p>⏰ Currently learning <b>Computer Vision</b></p>
+  <p>📚 Studying <b>Computer Science</b> at UFJF!</p>
+  <p>💼 Fullstack Development Intern at <b>Falaê</b> company</p>
 </div>
 
 
